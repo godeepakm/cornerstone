@@ -44,7 +44,7 @@
     "webpack:watch": "webpack --progress --debug --watch  --config ./config/webpack",
     "version": "node -p -e \"'export default \\'' + require('./package.json').version + '\\';'\" > src/version.js"
   },
-  "devDependencies": {
+  "dependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
     "babel-loader": "^8.0.2",
