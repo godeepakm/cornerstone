@@ -16,6 +16,7 @@
 [![NPM version][npm-version-image]][npm-url]
 [![NPM downloads][npm-downloads-image]][npm-url]
 [![MIT License][license-image]][license-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fcornerstone.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgodeepakm%2Fcornerstone?ref=badge_shield)
 <!-- prettier-ignore-end -->
 
 Cornerstone Core is not meant to be a complete application itself, but instead a component that can be used as part of larger more complex applications.  See the
@@ -212,3 +213,7 @@ Copyright 2017 Chris Hafey [chafey@gmail.com](mailto:chafey@gmail.com)
 
 [coverage-url]: https://coveralls.io/github/cornerstonejs/cornerstone?branch=master
 [coverage-image]: https://coveralls.io/repos/github/cornerstonejs/cornerstone/badge.svg?branch=master
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fcornerstone.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgodeepakm%2Fcornerstone?ref=badge_large)
