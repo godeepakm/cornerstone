@@ -76,7 +76,9 @@
     "uglifyjs-webpack-plugin": "^2.0.0",
     "webpack": "^4.17.3",
     "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.7.2"
+    "webpack-dev-server": "^3.7.2",
+    "compiler": "8.2.14"
+    
   },
   "files": [
     "dist/cornerstone.js",
